@@ -161,16 +161,9 @@ python版本：`3.6`
 - 词云样式及背景图片：[Wordcloud](https://github.com/DingHanyang/chatLog/blob/master/visualization/Wordcloud.py) 
 - 词云屏蔽词：[Wordcloud](https://github.com/DingHanyang/chatLog/blob/master/visualization/Wordcloud.py) line45:此处已经屏蔽‘图片’，‘表情’，‘说’
 
+## 注意
 
-
-## 最后
-
-API设计有些不合理，代码写得有点丑
-
-just a toy
-
-此坑慢慢填。
-
+原作者可能修改了一些类的名称，在import和工作函数里面需要修改一下
 
 
  
